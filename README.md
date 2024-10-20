@@ -15,10 +15,11 @@ Key Features :-
    
 Technical Details :- 
 
-1. Development Environment: Android Studio
-2. Programming Language: Kotlin
-3. Backend: Python
-4. Architecture: MVVM (Model-View-ViewModel)
+1. Development Environment: *Android Studio*
+2. Programming Language: *Kotlin*
+3. Backend: *Python*
+4. Architecture: *MVVM (Model-View-ViewModel)*
+
 Benefits :-
 
 1. Community Building: Connect with like-minded pet owners and create a supportive network.
